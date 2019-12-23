@@ -1,6 +1,6 @@
 {
   "name": "samwise",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "private": true,
   "description": "Small description for samwise goes here",
   "repository": "",
@@ -28,6 +28,7 @@
     "ember-cli-babel": "^7.13.0",
     "ember-cli-dependency-checker": "^3.2.0",
     "ember-cli-eslint": "^5.1.0",
+    "ember-cli-fastboot": "^2.2.1",
     "ember-cli-htmlbars": "^4.2.0",
     "ember-cli-inject-live-reload": "^2.0.1",
     "ember-cli-sri": "^2.1.1",
